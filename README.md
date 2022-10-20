@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cachaza&show_icons=true&theme=tokyonight" />
+</a></p>
 
-<!--
-**fernando5514/fernando5514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><a href="https://wakatime.com/@fernando5514">
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@fernando5514/a24c8bcf-9bd3-4053-a831-362fba0f2e2e.svg" />
+</a>
+<a href="https://wakatime.com/@fernando5514">
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@fernando5514/8ac0ec55-6acf-4bc1-bff4-4db649299db5.svg" />
+</a></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 👨‍🎓 Estudiante en la univerisdad Francisco de Vitoria
+
+
+### 🌱 My latest projects
+- Nada actualmente
