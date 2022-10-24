@@ -12,7 +12,3 @@
 
 
 ### 👨‍🎓 Estudiante en la univerisdad Francisco de Vitoria
-
-
-### 🌱 My latest projects
-- Nada actualmente
