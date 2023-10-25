@@ -3,9 +3,10 @@
 </a></p>
 
 <p align="center"><a href="https://wakatime.com/@fernando5514">
-  <figure><embed src="https://wakatime.com/share/@fernando5514/71668dad-2a59-49ad-a0a1-b5cc89cac5ea.svg"></embed></figure></a>
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@fernando5514/a24c8bcf-9bd3-4053-a831-362fba0f2e2e.svg" />
+</a>
 <a href="https://wakatime.com/@fernando5514">
-  <figure><embed src="https://wakatime.com/share/@fernando5514/a1ef0509-b8fc-400d-abcf-59780a3d58cd.svg"></embed></figure>
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@fernando5514/8ac0ec55-6acf-4bc1-bff4-4db649299db5.svg" />
 </a></p>
 
 
