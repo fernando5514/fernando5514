@@ -4,11 +4,11 @@
 
 <p align="center">
   <a href="https://wakatime.com/@fernando5514">
-    <img align="center" width="400" height="300"  src="https://wakatime.com/share/@fernando5514/42b240ac-01fa-47bf-831a-ae6951a17381.png" />
+    <img align="center" width="400" height="300"  src="https://wakatime.com/share/@fernando5514/64c9a046-f234-44ce-a5f0-9e8bc2fd36f1.svg" />
   </a>
   
   <a href="https://wakatime.com/@fernando5514">
-    <img align="center" width="400" height="300"  src="https://wakatime.com/share/@fernando5514/f0e8e894-d8d7-47b2-a75c-2585e3595109.png" />
+    <img align="center" width="400" height="300"  src="https://wakatime.com/share/@fernando5514/318a6baa-ddeb-4bdc-a540-d4db496082bf.svg" />
   </a>
 </p>
 
